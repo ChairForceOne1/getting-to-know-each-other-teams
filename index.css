@@ -3,6 +3,10 @@ body{
     margin:auto;
 }
 .title{
+    margin-left:25%;
+    margin-right:25%;
+    position: relative;
+    text-align: center;
     background-color: black;
     box-shadow: whitesmoke;
     color:white;
@@ -11,17 +15,25 @@ body{
     height:50;
 }
 .img{
+    position: relative;
     background-color:black;
     box-shadow:whitesmoke;
     width:75%;
     height:50;
 }
 .links{
+    position: relative;
+    text-align: center;
     background-color:black;
     box-shadow:whitesmoke;
     color:white;
 }  
+.links li{
+    list-style-type: none;
+}
 .team-assignments{
+    position: relative;
+    text-align: center;
     background-color:black;
     box-shadow:whitesmoke;
     color:white;
