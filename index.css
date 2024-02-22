@@ -1,6 +1,28 @@
 body{
     background-color: beige;
+    margin:auto;
 }
-h1{
-    margin: auto;
+.title{
+    background-color: black;
+    box-shadow: whitesmoke;
+    color:white;
+    font-size:20px;
+    width:50%;
+    height:50;
+}
+.img{
+    background-color:black;
+    box-shadow:whitesmoke;
+    width:75%;
+    height:50;
+}
+.links{
+    background-color:black;
+    box-shadow:whitesmoke;
+    color:white;
+}  
+.team-assignments{
+    background-color:black;
+    box-shadow:whitesmoke;
+    color:white;
 }
