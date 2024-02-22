@@ -1,27 +1,29 @@
 body{
     background-color: beige;
-    margin:auto;
+    text-align: center;
 }
 .title{
-    margin-left:25%;
-    margin-right:25%;
-    position: relative;
+    margin:auto;
     text-align: center;
     background-color: black;
     box-shadow: whitesmoke;
     color:white;
     font-size:20px;
     width:50%;
-    height:50;
+    height:50%;
 }
 .img{
+    margin:auto;
     position: relative;
     background-color:black;
     box-shadow:whitesmoke;
-    width:75%;
-    height:50;
+    width:60%;
+    height:80%;
 }
 .links{
+    margin:auto;
+    width:30%;
+    height:40%;
     position: relative;
     text-align: center;
     background-color:black;
@@ -30,8 +32,12 @@ body{
 }  
 .links li{
     list-style-type: none;
+    text-align: center;
 }
 .team-assignments{
+    margin:auto;
+    width:25%;
+    height:20%;
     position: relative;
     text-align: center;
     background-color:black;
