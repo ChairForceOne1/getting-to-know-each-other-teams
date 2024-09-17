@@ -1,7 +1,7 @@
 # Project Getting to know each other TEAMS
 
 ## Author(s)
-- Jayrell Garcia, Daniel Jazowski, Hima Madhavan, and Brian Gutt
+- Jayrell Garcia, Daniel Jazowski, Hima Madhavan, Brian Gutt, and Ahmad Yousuf
 
 
 ## Credits
